@@ -1,7 +1,6 @@
-![Logo](assets/logo.png)
+# My 42 School journey
 
-
-# My 42 School journey 
+<img src="assets/logo2.png" width="300">
 
 This repository houses a collection of projects I completed as part of my coursework at 42, the innovative and project-based coding school. From mastering data structures to tackling complex algorithms and creating real-world applications, these projects reflect my journey in honing my programming skills and problem-solving abilities. Explore the code, commit history, and see the progression of my coding proficiency throughout the course.
 
