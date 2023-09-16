@@ -6,10 +6,12 @@ This repository houses a collection of projects I completed as part of my course
 
 ## List of projects
 
-| **Circle** 	| **Project**      	| **Technology** 	| **Status**       	| **Grade** 	|
-|------------	|------------------	|----------------	|------------------	|-----------	|
-| 0          	| [Libft](./Libft) 	| C              	| Work in progress 	| - %       	|
+| **Circle** | **Project**      | **Technology** | **Status**       | **Grade** |
+|:----------:|------------------|----------------|------------------|:---------:|
+|      0     | [Libft](./Libft) | C              | Work in progress |     -%    |
 
-## Disclaimer (primarily for 42 students)
-
+<details>
+<summary><h3>Disclaimer (primarily for 42 students)<h3></summary>
+<br>
 While collaboration is encouraged, it's essential to emphasize that 42's educational model prioritizes independent problem-solving and individual growth. Please be aware that the code in this repository contains solutions to the assignments from the 42 curriculum. It is essential to uphold academic integrity and adhere to your institution's code of conduct. Copying or submitting this code as your own work goes against the principles of 42 and may have consequences in line with the school's policies. This repository is meant for reference and learning purposes only. Use it responsibly and ensure that you understand and complete your assignments independently.
+</details>
