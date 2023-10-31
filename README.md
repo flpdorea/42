@@ -5,13 +5,12 @@
 This repository houses a collection of projects I completed as part of my coursework at 42, the innovative and project-based coding school. From mastering data structures to tackling complex algorithms and creating real-world applications, these projects reflect my journey in honing my programming skills and problem-solving abilities. Explore the code, commit history, and see the progression of my coding proficiency throughout the course.
 
 ## List of projects
-
-| **Circle** |  **Projects** |   **Technology**  |    **Status**    | **Grade** |
-|:----------:|:-------------:|:-----------------:|:----------------:|:---------:|
-|      0     | Libft         | C                 |       Done       |  100/100  |
-|      1     | ft_printf     | C                 | Work in progress |   ?/100   |
-|      1     | get_next_line | C                 | Work in progress |   ?/100   |
-|      1     | Born2beroot   | Operating Systems | Work in progress |   ?/100   |
+| **Circle** |                        **Projects**                        |   **Technology**  |    **Status**    | **Grade** |
+|:----------:|:----------------------------------------------------------:|:-----------------:|:----------------:|:---------:|
+|      0     | [Libft](https://github.com/flpdorea/Libft)                 | C                 |       Done       |  100/100  |
+|      1     | [ft_printf](https://github.com/flpdorea/ft_printf)         | C                 | Work in progress |   ?/100   |
+|      1     | [get_next_line](https://github.com/flpdorea/get_next_line) | C                 | Work in progress |   ?/100   |
+|      1     | [Born2beroot](https://github.com/flpdorea/Born2beroot)     | Operating Systems | Work in progress |   ?/100   |
 
 <details>
 <summary><h3>Disclaimer (primarily for 42 students)<h3></summary>
