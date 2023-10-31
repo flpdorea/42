@@ -6,9 +6,12 @@ This repository houses a collection of projects I completed as part of my course
 
 ## List of projects
 
-| **Circle** | **Project**      | **Technology** | **Status**       | **Grade** |
-|:----------:|------------------|----------------|------------------|:---------:|
-|      0     | [Libft](./Libft) | C              | Work in progress |     -%    |
+| **Circle** |  **Projects** |   **Technology**  |    **Status**    | **Grade** |
+|:----------:|:-------------:|:-----------------:|:----------------:|:---------:|
+|      0     | Libft         | C                 |       Done       |  100/100  |
+|      1     | ft_printf     | C                 | Work in progress |   ?/100   |
+|      1     | get_next_line | C                 | Work in progress |   ?/100   |
+|      1     | Born2beroot   | Operating Systems | Work in progress |   ?/100   |
 
 <details>
 <summary><h3>Disclaimer (primarily for 42 students)<h3></summary>
